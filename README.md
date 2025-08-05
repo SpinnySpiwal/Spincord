@@ -5,7 +5,8 @@ Welcome to the Official Spincord Repo!
 ## Status
 🔴 *Closed* source until the code tidy-up code revision is completed.
 
-## Spincord ETA
+
+## Spincord ETA
 * Late August / Early September
 
 ## Features
